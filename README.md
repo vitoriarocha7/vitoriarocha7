@@ -6,7 +6,7 @@
 <br>
 
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=A855A0&center=true&vCenter=true&width=650&lines=%3E+It%27s+only+the+beginning.%3E+Hello%2C+I%27m+Vitoria+Rocha;ADS+Student+%40+IFSP;Technology+%7C+Data+%7C+Cybersecurity;Building+my+career+in+Technology..." alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=3000&color=A855A0&center=true&vCenter=true&width=650&lines=%3E+Hello%2C+I%27m+Vitoria+Rocha;ADS+Student+%40+IFSP;Technology+%7C+Data+%7C+Cybersecurity;Building+my+career+in+Technology;%3E+It%27s+only+the+beginning." alt="Typing Animation"/>
 
 
 </div>
