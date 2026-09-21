@@ -6,19 +6,7 @@
 <br>
 
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=A855A0&center=true&vCenter=true&width=650&lines=%3E+SYSTEM.INITIALIZE();%3E+Hello%2C+I'm+Vitoria+Rocha;ADS+Student+%40+IFSP;Technology+%7C+Data+%7C+Cybersecurity;Building+my+career+in+Technology..." alt="Typing Animation"/>
-
-
-<br><br>
-
-
-![Status](https://img.shields.io/badge/STATUS-BUILDING-5A1635?style=for-the-badge&labelColor=0D0A0D)
-
-
-![Focus](https://img.shields.io/badge/FOCUS-TECHNOLOGY-7A2E68?style=for-the-badge&labelColor=0D0A0D)
-
-
-![Learning](https://img.shields.io/badge/LEARNING-ACTIVE-A855A0?style=for-the-badge&labelColor=0D0A0D)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=A855A0&center=true&vCenter=true&width=650&lines=%3E+It%27s+only+the+beginning.%3E+Hello%2C+I%27m+Vitoria+Rocha;ADS+Student+%40+IFSP;Technology+%7C+Data+%7C+Cybersecurity;Building+my+career+in+Technology..." alt="Typing Animation"/>
 
 
 </div>
