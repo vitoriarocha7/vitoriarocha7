@@ -1,21 +1,24 @@
 <div align="center">
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="100%" role="img" aria-label="VITORIA ROCHA">
-  <rect width="1200" height="320" fill="#050505"/>
-  <g>
-    <path fill="#240A18" d="M0,200 C100,170 200,230 300,200 C400,170 500,230 600,200 C700,170 800,230 900,200 C1000,170 1100,230 1200,200 L1200,320 L0,320 Z">
-      <animate attributeName="transform" type="translate" values="0,0; 0,-18; 0,0" dur="7s" repeatCount="indefinite"/>
-    </path>
-    <path fill="#5A1635" d="M0,218 C100,188 200,248 300,218 C400,188 500,248 600,218 C700,188 800,248 900,218 C1000,188 1100,248 1200,218 L1200,320 L0,320 Z">
-      <animate attributeName="transform" type="translate" values="0,0; 0,-26; 0,0" dur="9s" repeatCount="indefinite"/>
-    </path>
-    <path fill="#7A2E68" d="M0,236 C100,206 200,266 300,236 C400,206 500,266 600,236 C700,206 800,266 900,236 C1000,206 1100,266 1200,236 L1200,320 L0,320 Z">
-      <animate attributeName="transform" type="translate" values="0,0; 0,-12; 0,0" dur="5s" repeatCount="indefinite"/>
-    </path>
-  </g>
-  <text x="600" y="148" text-anchor="middle" font-family="Segoe UI, Verdana, sans-serif" font-size="64" font-weight="700" fill="#E8DCE8">VITORIA ROCHA</text>
-  <text x="600" y="192" text-anchor="middle" font-family="Consolas, monospace" font-size="20" fill="#A855A0">HTML | CSS | JAVASCRIPT | C</text>
-</svg>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=VITORIA%20ROCHA&fontSize=42&fontColor=E8DCE8&animation=fadeIn&fontAlignY=38&desc=TECHNOLOGY%20%7C%20DATA%20%7C%20CYBERSECURITY&descAlignY=58&descSize=15&color=0:050505,50:240A18,100:5A1635" width="100%"/>
+
+
+<br>
+
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=A855A0&center=true&vCenter=true&width=650&lines=%3E+SYSTEM.INITIALIZE();%3E+Hello%2C+I'm+Vitoria+Rocha;ADS+Student+%40+IFSP;Technology+%7C+Data+%7C+Cybersecurity;Building+my+career+in+Technology..." alt="Typing Animation"/>
+
+
+<br><br>
+
+
+![Status](https://img.shields.io/badge/STATUS-BUILDING-5A1635?style=for-the-badge&labelColor=0D0A0D)
+
+
+![Focus](https://img.shields.io/badge/FOCUS-TECHNOLOGY-7A2E68?style=for-the-badge&labelColor=0D0A0D)
+
+
+![Learning](https://img.shields.io/badge/LEARNING-ACTIVE-A855A0?style=for-the-badge&labelColor=0D0A0D)
 
 
 </div>
