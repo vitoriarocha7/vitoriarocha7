@@ -57,9 +57,10 @@
     </td>
     <td width="50%">
       <h3 align="center">💻 Algoritmos em C</h3>
+      <p align="center"><b>🚧 Em Desenvolvimento</b></p>
       <p align="center">Exercícios, estruturas de dados e resolução de problemas desenvolvidos durante a graduação no IFSP.</p>
       <p align="center"><b>Tecnologias:</b> Linguagem C</p>
-      <p align="center">Exercícios disponíveis em breve!</p>
+      <p align="center"><i>Exercícios disponíveis em breve!</p>
     </td>
   </tr>
 </table>
