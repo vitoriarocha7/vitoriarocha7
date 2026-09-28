@@ -44,4 +44,24 @@
 
 ---
 
+## `04 // PROJETOS EM DESTAQUE`
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🌐 Portfólio Full-Stack</h3>
+      <p align="center"><b>🚧 Em Desenvolvimento (IFSP)</b></p>
+      <p align="center">Centralizador de projetos acadêmicos e profissionais. Aplicação de estrutura web, versionamento e boas práticas.</p>
+      <p align="center"><b>Tecnologias:</b> HTML5, CSS3, JavaScript</p>
+      <p align="center"><i>🚀 Repositório e prévia disponível em breve!</i></p>
+    </td>
+    <td width="50%">
+      <h3 align="center">💻 Algoritmos em C</h3>
+      <p align="center">Exercícios, estruturas de dados e resolução de problemas desenvolvidos durante a graduação no IFSP.</p>
+      <p align="center"><b>Tecnologias:</b> Linguagem C</p>
+      <p align="center">Exercícios disponíveis em breve!</p>
+    </td>
+  </tr>
+</table>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:050505,50:240A18,100:5A1635" width="100%"/>
